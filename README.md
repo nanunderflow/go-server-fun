@@ -1,2 +1,2 @@
 # go-server-fun
-Experiments with Go webserver
+Experiments with Go's http package
